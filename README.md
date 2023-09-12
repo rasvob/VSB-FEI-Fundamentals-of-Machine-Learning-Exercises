@@ -1,4 +1,5 @@
-# Exercises for the Fundamentals of Machine Learning course held at FEI, VSB-TU Ostrava.
+# Fundamentals of Machine Learning
+## The course is held at FEI, VSB-TU Ostrava
 
 Course information may be found [here](https://homel.vsb.cz/~pla06/).
 
