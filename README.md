@@ -5,7 +5,7 @@ Course information may be found [here](https://homel.vsb.cz/~pla06/).
 
 You can find more details about the course at [my homel](https://homel.vsb.cz/~svo0175/).
 
-Feel free to [contact me](radek.svoboda@vsb.cz) if you have any questions or want to discuss any topic from the course 😊
+Feel free to [contact me]<radek.svoboda@vsb.cz> if you have any questions or want to discuss any topic from the course 😊
 
 All authorship is mentioned where possible.
 
@@ -24,9 +24,8 @@ The aim of the exercise is to learn basic techniques for visualization creation 
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_02.ipynb)
 
-### Notes
-Create Python Virtual Enviroment named `venv`
-
+# Notes
+## How to create a Python Virtual Enviroment named `venv`
 ```
 python -m venv venv
 ```
@@ -57,5 +56,3 @@ Run Jupyter lab
 ```
 jupyter lab
 ```
-
-
