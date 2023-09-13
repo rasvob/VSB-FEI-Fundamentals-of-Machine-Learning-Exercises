@@ -9,7 +9,7 @@ Feel free to [contact me]<radek.svoboda@vsb.cz> if you have any questions or wan
 
 All authorship is mentioned where possible.
 
-# Exercises
+# 📊 Exercises
 ## Exercise 1
 The aim of the exercise is to get an overview of the basic capabilities of the Pandas, Matplotlib and Seaborn libraries and be able to setup a Python Virtual Enviroment (`venv`)
 
@@ -24,7 +24,7 @@ The aim of the exercise is to learn basic techniques for visualization creation 
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_02.ipynb)
 
-# Notes
+# 💡 Notes
 ## How to create a Python Virtual Enviroment named `venv`
 ```
 python -m venv venv
