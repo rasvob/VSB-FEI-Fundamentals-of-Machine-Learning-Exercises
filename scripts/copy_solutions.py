@@ -10,6 +10,7 @@ def copy_files_with_prefix(prefix, src_dir, dst_dir):
     for file in os.listdir(src_dir):
         if file.startswith(prefix):
             shutil.copy(os.path.join(src_dir, file), dst_dir)
+            print(f"Copying {file} to {dst_dir}")
 
 if __name__ == "__main__":
     # Load environment variables from .env file
