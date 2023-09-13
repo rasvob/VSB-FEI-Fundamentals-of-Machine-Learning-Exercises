@@ -5,7 +5,7 @@ Course information may be found [here](https://homel.vsb.cz/~pla06/).
 
 You can find more details about the course at [my homel](https://homel.vsb.cz/~svo0175/).
 
-Feel free to [contact me]<radek.svoboda@vsb.cz> if you have any questions or want to discuss any topic from the course 😊
+Feel free to contact me (<radek.svoboda@vsb.cz>) if you have any questions or want to discuss any topic from the course 😊
 
 All authorship is mentioned where possible.
 
