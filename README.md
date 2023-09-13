@@ -17,6 +17,13 @@ The aim of the exercise is to get an overview of the basic capabilities of the P
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_01.ipynb)
 
+## Exercise 2
+The aim of the exercise is to learn basic techniques for visualization creation and interpretation using Matplotlib and Seaborn libraries.
+
+> [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_02.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_02.ipynb)
+
 ### Notes
 Create Python Virtual Enviroment named `venv`
 
@@ -50,3 +57,5 @@ Run Jupyter lab
 ```
 jupyter lab
 ```
+
+
