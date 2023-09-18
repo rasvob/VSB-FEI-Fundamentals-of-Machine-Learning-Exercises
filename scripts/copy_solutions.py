@@ -1,7 +1,7 @@
 import os
 import shutil
 import sys
-from dotenv import load_dotenv
+from dotenv import load_dotenv, dotenv_values
 
 def copy_files_with_prefix(prefix, src_dir, dst_dir):
     """
@@ -12,21 +12,20 @@ def copy_files_with_prefix(prefix, src_dir, dst_dir):
             shutil.copy(os.path.join(src_dir, file), dst_dir)
             print(f"Copying {file} to {dst_dir}")
 
-if __name__ == "__main__":
-    # Load environment variables from .env file
-    load_dotenv()
+def copy_using_env(env_path='.env'):
+    config = dotenv_values(env_path)
 
     # Load environment variables
-    src_dir = os.getenv("INPUT_PATH")
-    dst_dir = os.getenv("OUTPUT_PATH")
-    prefix = os.getenv("PREFIX")
+    src_dir = config["INPUT_PATH"]
+    dst_dir = config["OUTPUT_PATH"]
+    prefix = config["PREFIX"]
 
     # Copy files
     copy_files_with_prefix(prefix, src_dir, dst_dir)
 
+if __name__ == "__main__":
+    # Load environment variables from .env file
 
-
-
-
-
-
+    tasks = ['.env', '.env.eng']
+    for task in tasks:
+        copy_using_env(task)

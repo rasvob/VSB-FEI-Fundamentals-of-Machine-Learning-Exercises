@@ -134,10 +134,12 @@ model.png
 mnist_model/
 task_add_two_numbers/
 
+.env.eng
 *_solution.ipynb
 *_tmp.ipynb
 WIP*.ipynb
 SOL*.ipynb
+ENG*.ipynb
 checkpoint
 weights*
 glove*
