@@ -24,6 +24,13 @@ The aim of the exercise is to learn basic techniques for visualization creation 
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_02.ipynb)
 
+## Exercise 3
+Goal of the excercise is to learn about more advanced vizualization techniques using Matplotlib and Seaborn libraries.
+
+> [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_03.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_03.ipynb)
+
 # 💡 Notes
 ## How to create a Python Virtual Enviroment named `venv`
 ```
