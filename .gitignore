@@ -144,3 +144,9 @@ checkpoint
 weights*
 glove*
 *.tsv
+annulus.csv
+boxes.csv
+clusters3.csv
+clusters5n.csv
+clusters5.csv
+densegrid.csv
