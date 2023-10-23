@@ -45,6 +45,13 @@ We will learn how to use another clustering algorithm - Hierarchical (or Agglome
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_05.ipynb)
 
+## Exercise 6
+The goal of this excercise is to complete the hands-on experience task with similar task description as the project has.
+
+> [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_06.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_06.ipynb)
+
 # 💡 Notes
 ## How to create a Python Virtual Enviroment named `venv`
 ```
