@@ -52,6 +52,15 @@ The goal of this excercise is to complete the hands-on experience task with simi
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_06.ipynb)
 
+## Exercise 7
+Goal of the excercise is to code selected part of the Decision tree algorithm which is focused on the optimum split part using gini index. 
+
+After that the scikit-learn implementation of the Decision tree basic usage will be demonstrated.
+
+> [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_07.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_07.ipynb)
+
 # 💡 Notes
 ## How to create a Python Virtual Enviroment named `venv`
 ```
