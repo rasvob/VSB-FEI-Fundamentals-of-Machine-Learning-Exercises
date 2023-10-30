@@ -28,4 +28,5 @@ if __name__ == "__main__":
 
     tasks = ['.env', '.env.eng']
     for task in tasks:
+        print(f"Copying {task}")
         copy_using_env(task)
