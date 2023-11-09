@@ -23,6 +23,7 @@ def copy_using_env(env_path='.env'):
     # Copy files
     copy_files_with_prefix(prefix, src_dir, dst_dir)
 
+
 if __name__ == "__main__":
     # Load environment variables from .env file
 

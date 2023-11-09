@@ -150,3 +150,11 @@ clusters3.csv
 clusters5n.csv
 clusters5.csv
 densegrid.csv
+kaggle/poker-hand-testing.csv
+kaggle/test.csv
+kaggle/ground_truth.csv
+kaggle/benchmark_submission.csv
+kaggle/sample_submission.csv
+kaggle/kaggle_prep.ipynb
+
+
