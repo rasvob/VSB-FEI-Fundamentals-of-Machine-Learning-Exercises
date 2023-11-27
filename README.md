@@ -112,7 +112,7 @@ in Linux
 Intall python packages
 
 ```
-pip install jupyter jupyterlab pandas matplotlib requests seaborn scipy scikit-learn
+pip install jupyter jupyterlab pandas matplotlib requests seaborn scipy scikit-learn tensorflow
 ```
 
 
