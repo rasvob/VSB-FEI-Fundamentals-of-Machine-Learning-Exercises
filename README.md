@@ -82,6 +82,13 @@ Goal of the excercise is to learn how to use Scikit-learn library for a regressi
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_10.ipynb)
 
+## Exercise 11
+Goal of the excercise is to learn how to use basic deep learning models in Scikit-learn and Keras.
+
+> [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_11.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_11.ipynb)
+
 # 💡 Notes
 ## How to create a Python Virtual Enviroment named `venv`
 ```
