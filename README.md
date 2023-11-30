@@ -112,9 +112,9 @@ in Linux
 Intall python packages
 
 ```
-pip install jupyter jupyterlab pandas matplotlib requests seaborn scipy scikit-learn tensorflow
+pip install jupyter "jupyterlab>=3" "ipywidgets>=7.6"
+pip install pandas matplotlib requests seaborn scipy scikit-learn tensorflow plotly==5.18.0
 ```
-
 
 Run Jupyter lab
 
