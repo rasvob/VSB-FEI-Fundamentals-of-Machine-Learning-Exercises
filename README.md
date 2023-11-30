@@ -89,34 +89,41 @@ Goal of the excercise is to learn how to use basic deep learning models in Sciki
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_11.ipynb)
 
+## Exercise 12
+Goal of the excercise is to learn how to save trained models and use selected advanced libraries like Plotly or Optuna.
+
+> [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_12.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_12.ipynb)
+
 # 💡 Notes
 ## How to create a Python Virtual Enviroment named `venv`
+### Create `venv`
 ```
 python -m venv venv
 ```
 
+### Activate `venv`
 
-Run venv
-
-Use
+* Activate `venv` in **Windows**
 ```
 .\venv\Scripts\Activate.ps1
 ```
-in Windows or
+
+* Activate `venv` in **Linux**
 ```
 source venv/bin/activate
 ```
-in Linux
 
 
-Intall python packages
+### Intall python packages
 
 ```
 pip install jupyter "jupyterlab>=3" "ipywidgets>=7.6"
-pip install pandas matplotlib requests seaborn scipy scikit-learn tensorflow plotly==5.18.0
+pip install pandas matplotlib requests seaborn scipy scikit-learn optuna tensorflow plotly==5.18.0
 ```
 
-Run Jupyter lab
+### 🚀 Run Jupyter lab
 
 ```
 jupyter lab

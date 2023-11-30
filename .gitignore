@@ -157,4 +157,6 @@ kaggle/benchmark_submission.csv
 kaggle/sample_submission.csv
 kaggle/kaggle_prep.ipynb
 
+*.sqlite3
+*.bin
 
