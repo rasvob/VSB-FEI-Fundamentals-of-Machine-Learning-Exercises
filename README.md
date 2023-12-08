@@ -97,7 +97,7 @@ Goal of the excercise is to learn how to save trained models and use selected ad
 > [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_12.ipynb)
 
 
-## Notebooks from the lecture
+## Notebooks from the lectures
 ### Sloths classification
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_classisication_sloth.ipynb)
