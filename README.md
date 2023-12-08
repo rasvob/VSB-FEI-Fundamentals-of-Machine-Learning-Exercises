@@ -98,6 +98,8 @@ Goal of the excercise is to learn how to save trained models and use selected ad
 
 
 ## Notebooks from the lectures
+Credit goes to prof. Ing. Jan Platoš, Ph.D.
+
 ### Sloths classification
 
 > [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_classisication_sloth.ipynb)
